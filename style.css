@@ -186,3 +186,79 @@ background-repeat: no-repeat;
 }
 
 /* end patner section  */
+
+/* start services section */
+
+.services .content .content-title{
+    color: #18191F;
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.services .box-container .box{
+    padding:14px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+.services .box-container .box img{
+    width: 100%;
+}
+.services .content .price{
+    color:  rgba(0, 0, 0, 0.87);
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 150%; 
+}
+
+.services .content .stars {
+    color: #5E6366;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.1px;
+}
+.services .content .stars i{
+    color:#FB8200;
+}
+.services .content p{
+    color: #787885;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 143%;
+    letter-spacing: 0.252px;
+}
+
+
+.service-btn-container{
+    margin-top: 50px;
+     text-align: end;
+ }
+/* end services section */
+
+
+/* start Featured section */ 
+
+.Featured .box-container .content h1{
+    color: #3A3A3A;
+    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 60px; 
+}
+.Featured .box-container .content p{
+    color: #3A3A3A;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom:28px;
+}
+
+/* end Featured section */ 
