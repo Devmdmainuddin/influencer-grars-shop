@@ -262,3 +262,27 @@ background-repeat: no-repeat;
 }
 
 /* end Featured section */ 
+/* start footer section */
+footer .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    column-gap:1.5rem;
+    background:rgba(47, 90, 90, 0.467);
+   
+}
+/* end footer section */
+
+/* footer creadit section */
+
+.credit{
+    color: #3A3A3A; 
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 22px;
+    text-align: center;
+}
+.credit span{
+    color: #E02C6D;
+
+}
