@@ -174,3 +174,15 @@ background-repeat: no-repeat;
 
 }
 /* end contact section  */
+
+.patner .image-container{
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:30px;
+   
+    justify-content: center;
+}
+
+/* end patner section  */
